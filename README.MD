@@ -1,7 +1,7 @@
 Revisions:
 - R1: Only Tested on A528BXXU2EWC1
 - R2: Only Tested on A528BXXU2EWC1
-
+- R3: Only Tested on A528BXXU2EWC1
 
 Features:
 
