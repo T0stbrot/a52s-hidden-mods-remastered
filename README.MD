@@ -1,3 +1,5 @@
+![](https://images.samsung.com/is/image/samsung/assets/de/smartphones/galaxy-a-series/galaxy-a52s-5g/buy/A52s_5G_GroupKV_PC.jpg)
+
 Revisions:
 - R1: Only Tested on A528BXXU2EWC1
 - R2: Only Tested on A528BXXU2EWC1
