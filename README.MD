@@ -19,11 +19,13 @@ R1:
 - Enabled Outdoor Mode (Broken as of R1)
 - Enabled mDNIe
 - Added the extra Performance Modes from Flagship Models
+
 R2:
 - Enabled Camera Privacy Toggle (why the heck isn't this in Mid-Tier phones?)
 - Better Gallery Zoom
 - Voice Recorder "Interview" Mode
 - More Camera Features
+
 R3:
 - Even More Camera Features
 - Better HDR
