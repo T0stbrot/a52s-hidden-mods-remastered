@@ -28,7 +28,7 @@ R2:
 
 R3:
 - Even More Camera Features
-- Better HDR
+- APE Codec Support
 - Auto-Rotate Smart-Widget
 - Smooth Scroll
 - GLVK Support
